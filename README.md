@@ -14,5 +14,5 @@ Very good and worked after Roblox update 🤑. We need more of these 🙏. No ha
 5. Enjoy
 
 # Credits
-??? - Making this executor. </br>
+Taha (1303825335133147236), Syringee (1307584204619386913), Groovypenguin (1118218143467323502), cipav (1165768182984868003) - Making/contributing to this executor. </br>
 3000IQPlay - Cracking & files. </br>
